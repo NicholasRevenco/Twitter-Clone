@@ -1,0 +1,126 @@
+.card {
+    margin-top: 5%;
+    background-color: rgb(238, 238, 238);
+    border-radius: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 80vw !important;
+    max-width: 400px !important;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px rgb(193, 193, 193);
+}
+
+.cardImage {
+    border-radius: 25px;
+    width: 65vw !important;
+    max-width: 300px !important;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.hr {
+    height: 10px;
+    background-color: white;
+    opacity: 1;
+    color: white;
+}
+
+.commentWidth {
+    margin-left: auto;
+    margin-right: auto;
+    width: 65vw !important;
+    max-width: 300px !important;
+}
+
+.commentBg {
+    background-color: rgb(228, 227, 227);
+    width: 65vw !important;
+    max-width: 300px !important;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 0px 5px 0px;
+    margin-top: 20px;
+}
+
+.content {
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.cardCreate {
+    background-color: rgb(238, 238, 238);
+    border-radius: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 80vw !important;
+    max-width: 400px !important;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px rgb(193, 193, 193);
+}
+
+.file {
+    width: 60vw !important;
+    max-width: 300px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.newTitle {
+    width: 55vw !important;
+    max-width: 300px !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.inline {
+    display: inline-block !important;
+}
+
+.noPosts {
+    padding-top: 35vh;
+    padding-bottom: 60vh;
+}
+
+.signIn {
+    margin-top: 40vh;
+    margin-bottom: 50vh;
+}
+
+.noPostCreateOne {
+    color: black;
+}
+
+.noPostCreateOne:hover {
+    color: rgb(80, 80, 80);
+}
+
+.postHr {
+    height: 10px;
+    background-color: black;
+    width: 75%;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.background {
+    background-image: url("https://docs.google.com/drawings/d/e/2PACX-1vSqKF51QU64dq94XKPTJT02xsC28pNYdKRmcu_wNoMh6PkMevup0UNqPu7w_kSAA_wY0fBHXBggiUPJ/pub?w=1615&h=1084");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 6vh;
+    padding-bottom: 10vh;
+}
+
+.createPostBackground {
+    padding-top: 17vh;
+    padding-bottom: 30vh;
+}

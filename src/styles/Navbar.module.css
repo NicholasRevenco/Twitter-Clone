@@ -1,0 +1,50 @@
+.username {
+    color: black;
+    width: 5%;
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-weight: 600;
+    margin-right: -140px;
+}
+
+.navItems {
+    text-decoration-line: none;
+    color: black;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-left: 10px;
+}
+
+.navItems:hover {
+    text-decoration-line: underline;
+    color: black;}
+
+.navItemsContainer {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logOutBtn {
+}
+
+.navUserInfo {
+    text-decoration-line: none;
+    display: inline-block;
+    display: flex;
+}
+
+.needLoginLogin {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navPadding {
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+}
